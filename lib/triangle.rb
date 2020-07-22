@@ -1,4 +1,3 @@
-require 'pry'
 class Triangle
   attr_accessor :side_a, :side_b, :side_c, :type
   
